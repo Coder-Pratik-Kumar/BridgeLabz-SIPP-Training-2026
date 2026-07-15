@@ -1,0 +1,6 @@
+Aditya Verma 85,90,88,92
+Priya Singh 78,82,80,75
+Rahul Kumar 95,98,96,94
+Neha Patel 88,85,90,87
+Vikas Sharma 72,70,68,75
+Ananya Gupta 91,89,92,90
